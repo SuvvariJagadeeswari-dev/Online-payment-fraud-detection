@@ -4,9 +4,9 @@ Online payment is the most popular transaction method in the world today. Howeve
 
 The dataset consists of 10 variables:
 
-step: represents a unit of time where 1 step equals 1 hour
-type: type of online transaction
-amount: the amount of the transaction
+#step: represents a unit of time where 1 step equals 1 hour
+#type: type of online transaction
+#amount: the amount of the transaction
 nameOrig: customer starting the transaction
 oldbalanceOrg: balance before the transaction
 newbalanceOrig: balance after the transaction
