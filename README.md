@@ -17,6 +17,7 @@ The dataset consists of 10 variables:
 
 # Project Overview
 The Online Payments Fraud Detection application is designed to predict fraudulent transactions in online payment systems using advanced machine learning techniques. With the growing risk of online payment fraud, this model helps financial institutions and e-commerce platforms identify suspicious transactions in real-time.
+
 This project focuses on:
 
 Real-time fraud detection by integrating machine learning models into the payment processing system.
