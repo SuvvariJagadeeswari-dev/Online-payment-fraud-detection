@@ -23,3 +23,9 @@ This project focuses on:
 Real-time fraud detection by integrating machine learning models into the payment processing system.
 Interactive interface for users to input transaction details and receive immediate feedback on transaction validity.
 Comprehensive feature engineering and data reduction techniques to optimize model performance.
+
+# Python Libraries
+pandas, numpy, seaborn, matplotlib, tabulate, sklearn
+
+# Conclusion
+The best performing model is Random Forest for identifying fraudulent and non-fraudulent payments.
