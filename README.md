@@ -4,13 +4,21 @@ Online payment is the most popular transaction method in the world today. Howeve
 
 The dataset consists of 10 variables:
 
-#step: represents a unit of time where 1 step equals 1 hour
-#type: type of online transaction
-#amount: the amount of the transaction
-nameOrig: customer starting the transaction
-oldbalanceOrg: balance before the transaction
-newbalanceOrig: balance after the transaction
-nameDest: recipient of the transaction
-oldbalanceDest: initial balance of recipient before the transaction
-newbalanceDest: the new balance of recipient after the transaction
-isFraud: fraud transaction
+* step: represents a unit of time where 1 step equals 1 hour
+* type: type of online transaction
+* amount: the amount of the transaction
+* nameOrig: customer starting the transaction
+* oldbalanceOrg: balance before the transaction
+* newbalanceOrig: balance after the transaction
+* nameDest: recipient of the transaction
+* oldbalanceDest: initial balance of recipient before the transaction
+* newbalanceDest: the new balance of recipient after the transaction
+* isFraud: fraud transaction
+
+# Project Overview
+The Online Payments Fraud Detection application is designed to predict fraudulent transactions in online payment systems using advanced machine learning techniques. With the growing risk of online payment fraud, this model helps financial institutions and e-commerce platforms identify suspicious transactions in real-time.
+This project focuses on:
+
+Real-time fraud detection by integrating machine learning models into the payment processing system.
+Interactive interface for users to input transaction details and receive immediate feedback on transaction validity.
+Comprehensive feature engineering and data reduction techniques to optimize model performance.
